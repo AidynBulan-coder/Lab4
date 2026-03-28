@@ -1,0 +1,10 @@
+2026-03-28 09:20:24.372996;1;LOOT;{"item": {"id": 1, "name": "Excalibur", "power": 200}}
+2026-03-28 09:20:24.373028;2;LOOT;{"item": {"id": 2, "name": "Sphere", "power": 90}}
+2026-03-28 09:20:24.373030;1;ATTACK;{"damage": 200}
+2026-03-28 09:20:24.373031;2;ATTACK;{"damage": 99}
+2026-03-28 09:20:24.373033;1;HEAL;{"heal": 100}
+STATS{
+  "total_damage": 299,
+  "most_common_event": "LOOT",
+  "top_player": 1
+}
